@@ -25,3 +25,4 @@ Social media: [Facebook](https://www.facebook.com/Cloud-9-Walkers-10858963588789
 
 ## Target audience  
 * Rijke klanten in Verenigde Emiraten, enz, klanten die investeren in renpaarden. Hogere verkoop, en bereikbaarheid tot dit clienteel.
+* Klant heeft graag reclame van derden op site. Extra inkomsten.
