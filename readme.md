@@ -9,20 +9,19 @@ Social media: [Facebook](https://www.facebook.com/Cloud-9-Walkers-10858963588789
 
 ## Problems with current website:  
 * Te lang   
-* Geen structuur 'chaotisch' Veel te druk, oogt niet professioneel.  
+* Geen structuur 'chaotisch' Veel te druk, oogt niet professioneel  
 * Te weinig bezoekers (hits)  
-* Het foto's formaat zijn verkeerd    
+* Het foto's formaat zijn verkeerd 
+* Tekst is te groot tav de foto's  
 * Kwaliteit foto's te laag  
-* Sommige van de links werken niet.  
-* Main menu ontbreekt.
+* Sommige van de links werken niet  
+* Main menu ontbreekt
 
 ## Objectives 
-* Grote klanten in Emiraten bereiken. 
+* Grote klanten in Emiraten bereiken 
 * Meer hits, groter bereik van potentiele klanten  
-* Duidelijke stats van paarden, vb. leeftijd, stamboom, evt. prijzen, prestaties.  
-* Klant heeft geen voorkeuren vermeldt i.v.m. kleur en stijl vormgeving.  
-* Klant heeft geen mogelijke referenties naar sites o.a. concurenten die voldoen aan zijn gewenst criteria  
-* Klant heeft graag reclame van derden op site. Extra inkomsten.
+* Duidelijke stats van paarden, vb. leeftijd, stamboom, verzorging, voeding, prestaties  
+* Klant heeft graag reclame van derden op site. Extra inkomsten
 
 ## Target audience  
-* Rijke klanten in Verenigde Emiraten, enz, klanten die investeren in renpaarden. Hogere verkoop, en bereikbaarheid tot dit clienteel.
+* Rijke klanten in Verenigde Emiraten, enz, klanten die investeren in renpaarden. Hogere verkoop, en bereikbaarheid tot dit clienteel
