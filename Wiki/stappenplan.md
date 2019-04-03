@@ -21,6 +21,8 @@
     * 3e showcase:
         * Links foto paard, klikbaar naar infopagina
         * Rechts info paard, klikbaar naar infopagina
+* Banner
+    * Create slideshow with ads, clickable to the ad website
   
 * footer:
     * contactgegevens in kleine letters:
