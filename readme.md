@@ -8,10 +8,3 @@
 
 
 ## Target audience  
-
-
-## Customer Contact:  
-* Luca
-* Geert
-* Herve
-* Dirk
