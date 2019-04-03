@@ -10,7 +10,7 @@
 ## Target audience  
 
 
-## Team members:  
+## Customer Contact:  
 * Luca
 * Geert
 * Herve
