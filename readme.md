@@ -21,8 +21,8 @@ Social media: [Facebook](https://www.facebook.com/Cloud-9-Walkers-10858963588789
 * Meer hits, groter bereik van potentiele klanten  
 * Duidelijke stats van paarden, vb. leeftijd, stamboom, evt. prijzen, prestaties.  
 * Klant heeft geen voorkeuren vermeldt i.v.m. kleur en stijl vormgeving.  
-* Klant heeft geen mogelijke referenties naar sites o.a. concurenten die voldoen aan zijn gewenst criteria
+* Klant heeft geen mogelijke referenties naar sites o.a. concurenten die voldoen aan zijn gewenst criteria  
+* Klant heeft graag reclame van derden op site. Extra inkomsten.
 
 ## Target audience  
 * Rijke klanten in Verenigde Emiraten, enz, klanten die investeren in renpaarden. Hogere verkoop, en bereikbaarheid tot dit clienteel.
-* Klant heeft graag reclame van derden op site. Extra inkomsten.
